@@ -1,6 +1,6 @@
 # Twitter's Recommendation Algorithm
 
-Twitter's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of Tweets and other content across all Twitter product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our [engineering blog](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm).
+Twitter’s Recommendation Algorithm picks and shows content in features like the 'For You' timeline, Search, Explore, and Notifications. It looks at tons of data—like what you interact with and trending topics—to deliver a personalized feed in real-time. For an introduction to how the algorithm works, please refer to our [engineering blog](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm).
 
 ## Architecture
 
